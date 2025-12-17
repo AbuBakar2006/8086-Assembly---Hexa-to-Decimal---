@@ -34,7 +34,7 @@ The program manipulates specific CPU registers to handle data:
 
 ## 💻 How to Run
 
-Since this is 16-bit Assembly, you need an emulator like **DOSBox** and an assembler like **MASM** or **TASM**.
+Since this is 16-bit Assembly, you need an emulator like **DOSBox** or **emu8086** and an assembler like **MASM** or **TASM**.
 
 #### 1. Prerequisites
 Install **emu8086**.
